@@ -7,7 +7,7 @@ int main(){
         a[i+1]=a[i];
     }
     a[psn]=val;
-    for(i=0;i<5;i++)
+    for(i=0;i<6;i++)
     {
         printf(" %d ",a[i]);
     }
